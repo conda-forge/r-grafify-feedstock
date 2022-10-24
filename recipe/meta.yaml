@@ -33,6 +33,8 @@ requirements:
     - r-lme4
     - r-lmertest
     - r-magrittr
+    - r-mgcv
+    - r-patchwork
     - r-purrr
     - r-tidyr
   run:
@@ -44,6 +46,8 @@ requirements:
     - r-lme4
     - r-lmertest
     - r-magrittr
+    - r-mgcv
+    - r-patchwork
     - r-purrr
     - r-tidyr
 
