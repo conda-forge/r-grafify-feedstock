@@ -1,4 +1,4 @@
-{% set version = "3.0.0" %}
+{% set version = "3.0.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/grafify_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/grafify/grafify_{{ version }}.tar.gz
-  sha256: b0d7faacc6a9d4606f9c65d7e5dab034babb4213cf11778371ed217a308b38a4
+  sha256: 11ad5d6b7c86179e31102e63a6b0ca733b91c787c2e7a13e8c416db4999e9515
 
 build:
   merge_build_host: true  # [win]
