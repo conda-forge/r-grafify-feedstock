@@ -1,11 +1,11 @@
-About r-grafify
-===============
+About r-grafify-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-grafify-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ashenoy-cmbi/grafify
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-grafify-feedstock/blob/main/LICENSE.txt)
 
 Summary: Easily explore data by generating different kinds of graphs with few lines of code. Use these ggplot() wrappers to quickly draw graphs of scatter/dots with box-whiskers, violins or SD error bars, data distributions, before-after graphs, factorial ANOVA and more. Customise graphs in many ways. Choose from colourblind-friendly 12 discreet , 3 continuous (3 palettes) and 3 divergent colour palettes. Simple code for ANOVA as ordinary (lm()) or mixed-effects linear models (lmer()), including randomised-block or repeated-measures designs. Obtain estimated marginal means and perform post-hoc comparisons on fitted models (via emmeans() wrappers). Also includes small datasets for practicing code and teaching basics before users move on to more complex designs. See vignettes for details on usage <https://grafify-vignettes.netlify.app/>. Citation: <doi:10.5281/zenodo.5136508>.
 
