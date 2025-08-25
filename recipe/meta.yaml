@@ -1,4 +1,4 @@
-{% set version = "5.0.0.1" %}
+{% set version = "5.1.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/grafify_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/grafify/grafify_{{ version }}.tar.gz
-  sha256: 633d6df87b7eede787080a1274c278d0f555d894eadc5a4a1c2290b8700fc3a0
+  sha256: b27415db101e736c4e404adaf6fdb21f212abcaf935ade244278c20f52c71518
 
 build:
   number: 0
